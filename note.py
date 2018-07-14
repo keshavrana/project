@@ -108,3 +108,8 @@ root.maxsize(600,600)
 root.minsize(500,500)
 root.mainloop()
 
+#image is avilabel in issues,this is the path 
+#image1->>![pic2](https://user-images.githubusercontent.com/33520142/42723052-6c8e63a2-870b-11e8-9b54-558c762783de.PNG)
+
+#image2->>![pic](https://user-images.githubusercontent.com/33520142/42723058-a3d3251e-870b-11e8-8ef9-fc518218b17a.PNG)
+
